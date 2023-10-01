@@ -1,0 +1,60 @@
+.collapse {
+    position: relative;
+    width: 30%;
+    height: auto;
+    margin-right: 5%;
+}
+
+.collapseTitle {
+    background-color: #E8C39A;
+    color: #011028;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px 10px 0px 0px;;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    h2 {
+        font-weight: 500;
+    }
+
+    .icon {
+        font-size: 25px;
+
+    }
+
+    .collapse {
+        width: auto;
+        margin-right: 10px;
+    }
+}
+
+.collapseText {
+    font-size: larger;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+    color: #011028;
+}
+
+.slideUp {
+    visibility: hidden;
+    max-height: 0;
+    transition: visibility 0s 1.5s, max-height 1.5s ease-in-out;
+}
+
+.slideDown {
+    visibility: visible;
+    max-height: 500px;
+    transition: max-height 1.5s ease-in-out;
+}
+
+.rotation {
+    transform: rotate(180deg);
+    transition: 0.4s ease-in-out;
+}

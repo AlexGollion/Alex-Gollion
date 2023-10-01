@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#E8C39A, lightgray);
+    width: 35%;
+    padding: 2%;
+
+    label {
+        color: black;
+        margin-top: 10px;
+        margin-bottom: 2px;
+    }
+
+    input, textarea {
+        border: none;
+        border-radius: 10px;
+        margin-top: 2px;
+    }
+
+    input {
+        height: 35px;
+        margin-bottom: 10px;
+    }
+
+    #nomPrenom {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: auto;
+    }
+
+    .test{
+        flex-direction: column;
+        height: auto;
+        width: 45%;
+    }
+}

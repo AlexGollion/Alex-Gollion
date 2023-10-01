@@ -1,0 +1,65 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 0px;
+
+    img {
+        height: 500px;
+    }
+
+    div {
+        display: flex;
+        justify-content: center;
+    }
+
+    #présentation {
+        background-color: #4092f0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+
+        .presentationText {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 100%;
+            border-color: black;
+            background-color: whitesmoke;
+            width: 30%;
+            aspect-ratio: 1/1;
+
+            p {
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                margin-top: 0px;
+            }
+
+            h3 {
+                margin-top: 0px;
+            }  
+
+            img {
+                width: 30%;
+                height: auto;
+                border-radius: 50%;
+            }
+        }
+    }
+
+    #competences {
+        background: linear-gradient(#4092f0, #004ABA);
+    }
+
+    #projets {
+        background-color: #004ABA;
+        color: white;
+    }
+
+    #contact {
+        background: linear-gradient(#004ABA, #011028);
+        color: white;
+    }
+}

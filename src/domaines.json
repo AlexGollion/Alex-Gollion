@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nom": "Front-end"
+    },
+    {
+        "id": 2,
+        "nom": "Back-end"
+    },
+    {
+        "id": 3,
+        "nom": "Base de donnée"
+    }
+]

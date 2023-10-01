@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 50px;
+
+    nav {
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        right: 0px;
+        width: auto;
+
+        a, link {
+            color: black;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+    }
+}
