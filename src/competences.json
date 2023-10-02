@@ -2,49 +2,49 @@
     {
         "id": 1,
         "nom": "HTML",
-        "logo": "./assets/Logo/HTML5_logo.webp",
+        "logo": "images/logo/HTML5_logo.webp",
         "domaine": 1
     },
     {
         "id": 2,
         "nom": "CSS",
-        "logo": "./assets/Logo/CSS3_logo.webp",
+        "logo": "images/logo/CSS3_logo.webp",
         "domaine": 1
     },
     {
         "id": 3,
         "nom": "JavaScript",
-        "logo": "./assets/Logo/JavaScript_logo.webp",
+        "logo": "images/logo/JavaScript_logo.webp",
         "domaine": 1
     },
     {
         "id": 4,
         "nom": "React.js",
-        "logo": "./assets/Logo/React_logo.webp",
+        "logo": "images/logo/React_logo.webp",
         "domaine": 1
     },
     {
         "id": 5,
         "nom": "Node.js",
-        "logo": "./assets/Logo/Nodejs_logo.webp",
+        "logo": "images/logo/Nodejs_logo.webp",
         "domaine": 2
     },    
     {
         "id": 6,
         "nom": "express.js",
-        "logo": "./assets/Logo/Expressjs_logo.webp",
+        "logo": "images/logo/Expressjs_logo.webp",
         "domaine": 2
     },
     {
         "id": 7,
         "nom": "MongoDB",
-        "logo": "./assets/Logo/MongoDB_logo.webp",
+        "logo": "images/logo/MongoDB_logo.webp",
         "domaine": 3
     },
     {
         "id": 8,
         "nom": "sass",
-        "logo": "./assets/Logo/Sass_logo.webp",
+        "logo": "images/logo/Sass_logo.webp",
         "domaine": 1
     }
 ]

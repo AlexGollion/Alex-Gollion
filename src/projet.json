@@ -2,17 +2,17 @@
     {
         "id": 1,
         "titre": "Site Kasa",
-        "cover": "https://alexgollion.github.io/Alex-Gollion/assets/Kasa/page_acceuil_kasa.webp",
+        "cover": "images/kasa/page_acceuil_kasa.webp",
         "image": 
         [
-            "./assets/Kasa/page_acceuil_kasa.webp",
-            "./assets/Kasa/card_kasa.webp",
-            "./assets/Kasa/footer_kasa.webp",
-            "./assets/Kasa/logement_kasa.webp",
-            "./assets/Kasa/logement_description_kasa.webp",
-            "./assets/Kasa/a_propos_kasa.webp",
-            "./assets/Kasa/a_propos_2_kasa.webp",
-            "./assets/Kasa/erreur_kasa.webp"
+            "images/kasa/page_acceuil_kasa.webp",
+            "images/kasa/card_kasa.webp",
+            "images/kasa/footer_kasa.webp",
+            "images/kasa/logement_kasa.webp",
+            "images/kasa/logement_description_kasa.webp",
+            "images/kasa/a_propos_kasa.webp",
+            "images/kasa/a_propos_2_kasa.webp",
+            "images/kasa/erreur_kasa.webp"
         ],
         "description": "test",
         "competences": 
@@ -31,12 +31,12 @@
     {
         "id": 2,
         "titre": "Site Booki",
-        "cover": "https://alexgollion.github.io/Alex-Gollion/assets/booki/page_acceuil_booki_cover.webp",
+        "cover": "images/booki/page_acceuil_booki_cover.webp",
         "image":
         [
-            "./assets/booki/page_acceuil_booki.webp",
-            "./assets/booki/hebergement_booki.webp",
-            "./assets/booki/activite_booki.webp"
+            "images/booki/page_acceuil_booki.webp",
+            "images/booki/hebergement_booki.webp",
+            "images/booki/activite_booki.webp"
         ],
         "description": "test",
         "competences": 
@@ -53,16 +53,16 @@
     {
         "id": 3,
         "titre": "Site de Sophie Bluel",
-        "cover": "https://alexgollion.github.io/Alex-Gollion/assets/Sophie_Bluel/page_acceuil_Sophie_Bluel_cover.webp",
+        "cover": "images/sophie_bluel/page_acceuil_Sophie_Bluel_cover.webp",
         "image": 
         [
-            "./assets/Sophie_Bluel/page_acceuil_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/projet_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/contact_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/login_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/mode_edition_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/modal_Sophie_Bluel.webp",
-            "./assets/Sophie_Bluel/ajout_photo_Sophie_Bluel.webp"
+            "images/sophie_bluel/page_acceuil_Sophie_Bluel.webp",
+            "images/sophie_bluel/projet_Sophie_Bluel.webp",
+            "images/sophie_bluel/contact_Sophie_Bluel.webp",
+            "images/sophie_bluel/login_Sophie_Bluel.webp",
+            "images/sophie_bluel/mode_edition_Sophie_Bluel.webp",
+            "images/sophie_bluel/modal_Sophie_Bluel.webp",
+            "images/sophie_bluel/ajout_photo_Sophie_Bluel.webp"
         ],
         "description": "test",
         "competences": 
@@ -80,15 +80,15 @@
     {
         "id": 4,
         "titre": "Site Mon Vieux Grimoire",
-        "cover": "https://alexgollion.github.io/Alex-Gollion/assets/Grimoire/page_acceuil_grimoire_cover.webp",
+        "cover": "images/grimoire/page_acceuil_grimoire_cover.webp",
         "image": 
         [
-            "./assets/Grimoire/page_acceuil_grimoire.webp",
-            "./assets/Grimoire/login_grimoire.webp",
-            "./assets/Grimoire/ajout_livre_1_grimoire.webp",
-            "./assets/Grimoire/ajout_livre_2_grimoire.webp",
-            "./assets/Grimoire/livre_grimoire.webp",
-            "./assets/Grimoire/meilleur_livre_grimoire.webp"
+            "images/grimoire/page_acceuil_grimoire.webp",
+            "images/grimoire/login_grimoire.webp",
+            "images/grimoire/ajout_livre_1_grimoire.webp",
+            "images/grimoire/ajout_livre_2_grimoire.webp",
+            "images/grimoire/livre_grimoire.webp",
+            "images/grimoire/meilleur_livre_grimoire.webp"
         ],
         "description": "test",
         "competences": 
