@@ -9,16 +9,18 @@ import './styles/main.scss';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router basename='/'>
-    <Header />
-    <Routes>
-      <Route path='/' element={<Home />} />
-      <Route path='/projet' element={<Projet />} >
-          <Route path=':id' element={<Projet />} />
-      </Route>
-    </Routes>
-    <Footer />
-  </Router>
+  <React.StrictMode>
+    <Router basename='/#/'>
+      <Header />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/projet' element={<Projet />} >
+            <Route path=':id' element={<Projet />} />
+        </Route>
+      </Routes>
+      <Footer />
+    </Router>
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
