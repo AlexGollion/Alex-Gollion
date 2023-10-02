@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titre": "Site Kasa",
-        "cover": "../images/Kasa/page_acceuil_kasa.webp",
+        "cover": "./assets/Kasa/page_acceuil_kasa.webp",
         "image": 
         [
             "../images/Kasa/page_acceuil_kasa.webp",
@@ -31,7 +31,7 @@
     {
         "id": 2,
         "titre": "Site Booki",
-        "cover": "../images/booki/page_acceuil_booki_cover.webp",
+        "cover": "./assets/booki/page_acceuil_booki_cover.webp",
         "image":
         [
             "../images/booki/page_acceuil_booki.webp",
@@ -53,7 +53,7 @@
     {
         "id": 3,
         "titre": "Site de Sophie Bluel",
-        "cover": "../images/Sophie_Bluel/page_acceuil_Sophie_Bluel_cover.webp",
+        "cover": "./assets/Sophie_Bluel/page_acceuil_Sophie_Bluel_cover.webp",
         "image": 
         [
             "../images/Sophie_Bluel/page_acceuil_Sophie_Bluel.webp",
@@ -80,7 +80,7 @@
     {
         "id": 4,
         "titre": "Site Mon Vieux Grimoire",
-        "cover": "../images/Grimoire/page_acceuil_grimoire_cover.webp",
+        "cover": "./assets/Grimoire/page_acceuil_grimoire_cover.webp",
         "image": 
         [
             "../images/Grimoire/page_acceuil_grimoire.webp",
