@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Alex-Gollion/static/css/main.18b50d98.css",
-    "main.js": "/Alex-Gollion/static/js/main.e37e4ddc.js",
+    "main.css": "/Alex-Gollion/static/css/main.ad555b53.css",
+    "main.js": "/Alex-Gollion/static/js/main.4af3f634.js",
     "static/media/CV_Gollion_Alex.pdf": "/Alex-Gollion/static/media/CV_Gollion_Alex.f7430e21dd2300e41ac4.pdf",
     "static/media/journal.webp": "/Alex-Gollion/static/media/journal.c865ea2c2c97bde5afae.webp",
     "static/media/profil.webp": "/Alex-Gollion/static/media/profil.e8cb781fe950ee1a3bc4.webp",
     "index.html": "/Alex-Gollion/index.html",
     "static/media/In-Blue-26.webp": "/Alex-Gollion/static/media/In-Blue-26.2d819496aaac208a40e9.webp",
-    "main.18b50d98.css.map": "/Alex-Gollion/static/css/main.18b50d98.css.map",
-    "main.e37e4ddc.js.map": "/Alex-Gollion/static/js/main.e37e4ddc.js.map"
+    "main.ad555b53.css.map": "/Alex-Gollion/static/css/main.ad555b53.css.map",
+    "main.4af3f634.js.map": "/Alex-Gollion/static/js/main.4af3f634.js.map"
   },
   "entrypoints": [
-    "static/css/main.18b50d98.css",
-    "static/js/main.e37e4ddc.js"
+    "static/css/main.ad555b53.css",
+    "static/js/main.4af3f634.js"
   ]
 }
