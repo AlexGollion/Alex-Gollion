@@ -14,7 +14,7 @@
             "images/kasa/a_propos_2_kasa.webp",
             "images/kasa/erreur_kasa.webp"
         ],
-        "description": "test",
+        "description": "Ma mission consistait à réaliser le front-end du site Kasa, lors de sa refonte. Le front-end devais être fait avec React.js et le back-end avec Node.js. Le back-end n'étant pas réalisé, on m'avait fournit un fichier json contenant les différentes données à afficher sur le site. J'ai également créé un autre fichier json contenant d'autres informations du site afin de faciliter le développement.",
         "competences": 
         [
             1,
@@ -38,7 +38,7 @@
             "images/booki/hebergement_booki.webp",
             "images/booki/activite_booki.webp"
         ],
-        "description": "test",
+        "description": "Ma mission consistait à réaliser le site Booki en HTML et CSS. Une maquette du site était fournis ainsi que les différentes icons contenues dans le site. Pour les icons je devais utiliser font awesome pour les ajouter sur le site. Les images présentes sur le site étaient également fournies.",
         "competences": 
         [
             1,
@@ -64,7 +64,7 @@
             "images/sophie_bluel/modal_Sophie_Bluel.webp",
             "images/sophie_bluel/ajout_photo_Sophie_Bluel.webp"
         ],
-        "description": "test",
+        "description": "Ma mission consistait à changer le site de Shopie Bluel afin qu'il soit dynamique. Un back-end m'était fourni. Je devais donc utiliser JavaScript pour récupérer les données et les afficher correctement sur le site. Une maquette du site m'était fournie. Je devais également créer la page de login et la rendre fonctionnel ainsi que la modale d'ajout des nouveaux projets.",
         "competences": 
         [
             1,
@@ -90,7 +90,7 @@
             "images/grimoire/livre_grimoire.webp",
             "images/grimoire/meilleur_livre_grimoire.webp"
         ],
-        "description": "test",
+        "description": "Ma mission consistait à réaliser le back-end du site Mon Vieux Grimoire. Le front-end ainsi que la maquette du site m'étaient fournis. Pour réaliser le back-end, je devais utiliser Node.js et express ainsi qu'une base de données en NoSQL, MongoDB. J'avais un document contenant les informations sur les différentes routes à créer.",
         "competences": 
         [
             5,
