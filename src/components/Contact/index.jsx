@@ -23,6 +23,7 @@ function Contact()
                 <input type="text" id="sujet" name="sujet" />
                 <label for="message">Message</label>
                 <textarea id="message" name="message" rows="8" cols="50" />
+                <button type='submit'> Envoyer </button>
             </form>
         </div>
     )
