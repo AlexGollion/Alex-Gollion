@@ -5,10 +5,10 @@ function Header()
     return (
         <div className="header">
             <nav>
-                <HashLink href='/#présentation'>Présentation</HashLink>
-                <HashLink href='/#competences'>Mes Compétences</HashLink>
-                <HashLink href='/#projets'>Mes Projets</HashLink>
-                <HashLink href='/#contact'>Me Contacter</HashLink>
+                <HashLink to='/#présentation'>Présentation</HashLink>
+                <HashLink to='/#competences'>Mes Compétences</HashLink>
+                <HashLink to='/#projets'>Mes Projets</HashLink>
+                <HashLink to='/#contact'>Me Contacter</HashLink>
             </nav>
         </div>
     );

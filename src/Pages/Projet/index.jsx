@@ -9,6 +9,7 @@ import Carrousel from '../../components/Carrousel';
 function Projet()
 {
     const { id } = useParams(); 
+    console.log(id);
     let dataProjet = DATA_PROJET[id-1];
     let dataComp = [];
     let j, find;
