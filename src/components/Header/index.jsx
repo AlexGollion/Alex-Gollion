@@ -5,7 +5,7 @@ function Header()
     return (
         <div className="header">
             <nav>
-                <HashLink smooth to='/#/#présentation'>Présentation</HashLink>
+                <HashLink to='/#présentation'>Présentation</HashLink>
                 <HashLink to='/#competences'>Mes Compétences</HashLink>
                 <HashLink to='/#projets'>Mes Projets</HashLink>
                 <HashLink to='/#contact'>Me Contacter</HashLink>
