@@ -9,7 +9,7 @@ import './styles/main.scss';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
+  <Router basename='/'>
     <Header />
     <Routes>
       <Route path='/' element={<Home />} />
