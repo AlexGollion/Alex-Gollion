@@ -10,11 +10,11 @@ import './styles/main.scss';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router basename='/#/'>
+    <Router basename='/'>
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/projet' element={<Projet />} >
+        <Route path='/#/projet' element={<Projet />} >
             <Route path=':id' element={<Projet />} />
         </Route>
       </Routes>
