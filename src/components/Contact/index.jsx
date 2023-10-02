@@ -6,7 +6,7 @@ function Contact()
         <div id='contact'>
             <h2>Me Contacter</h2>
             <a href={test} download='CV_Gollion_Alex'>Télécharger mon CV</a>
-            <form>
+            <form method='POST' action='https://alexgollion.000webhostapp.com/traitement.php'>
                 <div id="nomPrenom">
                     <div className="test">
                         <label for="nom">Nom</label>
