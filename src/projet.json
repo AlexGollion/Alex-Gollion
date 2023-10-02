@@ -5,14 +5,14 @@
         "cover": "./assets/Kasa/page_acceuil_kasa.webp",
         "image": 
         [
-            "../images/Kasa/page_acceuil_kasa.webp",
-            "../images/Kasa/card_kasa.webp",
-            "../images/Kasa/footer_kasa.webp",
-            "../images/Kasa/logement_kasa.webp",
-            "../images/Kasa/logement_description_kasa.webp",
-            "../images/Kasa/a_propos_kasa.webp",
-            "../images/Kasa/a_propos_2_kasa.webp",
-            "../images/Kasa/erreur_kasa.webp"
+            "./assets/Kasa/page_acceuil_kasa.webp",
+            "./assets/Kasa/card_kasa.webp",
+            "./assets/Kasa/footer_kasa.webp",
+            "./assets/Kasa/logement_kasa.webp",
+            "./assets/Kasa/logement_description_kasa.webp",
+            "./assets/Kasa/a_propos_kasa.webp",
+            "./assets/Kasa/a_propos_2_kasa.webp",
+            "./assets/Kasa/erreur_kasa.webp"
         ],
         "description": "test",
         "competences": 
@@ -34,9 +34,9 @@
         "cover": "./assets/booki/page_acceuil_booki_cover.webp",
         "image":
         [
-            "../images/booki/page_acceuil_booki.webp",
-            "../images/booki/hebergement_booki.webp",
-            "../images/booki/activite_booki.webp"
+            "./assets/booki/page_acceuil_booki.webp",
+            "./assets/booki/hebergement_booki.webp",
+            "./assets/booki/activite_booki.webp"
         ],
         "description": "test",
         "competences": 
@@ -56,13 +56,13 @@
         "cover": "./assets/Sophie_Bluel/page_acceuil_Sophie_Bluel_cover.webp",
         "image": 
         [
-            "../images/Sophie_Bluel/page_acceuil_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/projet_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/contact_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/login_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/mode_edition_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/modal_Sophie_Bluel.webp",
-            "../images/Sophie_Bluel/ajout_photo_Sophie_Bluel.webp"
+            "./assets/Sophie_Bluel/page_acceuil_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/projet_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/contact_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/login_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/mode_edition_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/modal_Sophie_Bluel.webp",
+            "./assets/Sophie_Bluel/ajout_photo_Sophie_Bluel.webp"
         ],
         "description": "test",
         "competences": 
@@ -83,12 +83,12 @@
         "cover": "./assets/Grimoire/page_acceuil_grimoire_cover.webp",
         "image": 
         [
-            "../images/Grimoire/page_acceuil_grimoire.webp",
-            "../images/Grimoire/login_grimoire.webp",
-            "../images/Grimoire/ajout_livre_1_grimoire.webp",
-            "../images/Grimoire/ajout_livre_2_grimoire.webp",
-            "../images/Grimoire/livre_grimoire.webp",
-            "../images/Grimoire/meilleur_livre_grimoire.webp"
+            "./assets/Grimoire/page_acceuil_grimoire.webp",
+            "./assets/Grimoire/login_grimoire.webp",
+            "./assets/Grimoire/ajout_livre_1_grimoire.webp",
+            "./assets/Grimoire/ajout_livre_2_grimoire.webp",
+            "./assets/Grimoire/livre_grimoire.webp",
+            "./assets/Grimoire/meilleur_livre_grimoire.webp"
         ],
         "description": "test",
         "competences": 
