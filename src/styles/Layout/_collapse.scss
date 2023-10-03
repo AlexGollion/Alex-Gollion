@@ -58,3 +58,10 @@
     transform: rotate(180deg);
     transition: 0.4s ease-in-out;
 }
+
+@media(max-width: 850px) 
+{
+    .collapse {
+        width: 80%;
+    }
+}

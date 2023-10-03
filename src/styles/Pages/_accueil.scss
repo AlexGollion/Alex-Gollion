@@ -63,3 +63,17 @@
         color: white;
     }
 }
+
+@media(max-width: 850px) 
+{
+    .home {
+
+        #presentation {
+
+            .presentationText {
+                border-radius: none;
+                width: 80%;
+            }
+        }
+    }
+}

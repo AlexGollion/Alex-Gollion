@@ -40,3 +40,14 @@
         }
     }
 }
+
+@media(max-width: 850px) 
+{
+    #competences {
+
+        .sectionLogo {
+            flex-direction: column;
+            width: 80%;
+        }
+    }
+}

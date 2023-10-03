@@ -22,8 +22,31 @@
     }
 
     .link {
-        color: black;
+        color: white;
         margin-top: 100px;
         margin-bottom: 100px;
+    }
+}
+
+@media(max-width: 850px) 
+{
+    .error {
+        h1 {
+            margin-top: 100px;
+            font-size: 96pt;
+        }
+
+        p {
+            font-size: 14pt;
+            text-align: center;
+        }
+
+        br  {
+            display: inline;
+        }
+
+        .link {
+            font-size: 12pt;
+        }
     }
 }
