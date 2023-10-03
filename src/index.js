@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './Pages/Home';
 import Projet from './Pages/Projet';
+import Error from './components/Error';
 import './styles/main.scss';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +18,7 @@ root.render(
         <Route path='/projet' element={<Projet />} >
             <Route path=':id' element={<Projet />} />
         </Route>
+        <Route path='*' element={<Error />} />
       </Routes>
       <Footer />
     </Router>
