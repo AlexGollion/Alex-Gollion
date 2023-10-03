@@ -49,11 +49,13 @@
             flex-direction: column;
             flex-wrap: none;
             padding: 20px;
+            align-items: center;
 
             .card {
-                width: 80%;
+                width: 67%;
                 margin-top: 20px;
                 margin-bottom: 20px;
+                height: 300px;
             }
         }
     }
