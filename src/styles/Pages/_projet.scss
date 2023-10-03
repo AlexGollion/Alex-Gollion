@@ -85,7 +85,29 @@
 
 @media(max-width: 850px)  
 {
-    .information {
-        flex-direction: column;
+
+    .projet {
+
+        .image {
+            height: 250px;
+    
+            .next {
+                right: 5%;
+            }
+            
+            .prev {
+                left: 5%;
+            }
+        }
+    
+        .information {
+            flex-direction: column;
+            align-items: center;
+
+            .tags {
+                margin-left: 0px;
+                margin-bottom: 20px;
+            }
+        }
     }
 }

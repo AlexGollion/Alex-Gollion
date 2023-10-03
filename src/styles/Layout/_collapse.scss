@@ -63,5 +63,12 @@
 {
     .collapse {
         width: 80%;
+        margin-right: 0px;
+
+        .collapseTitle {
+            .collapse {
+                margin: 0px;
+            }
+        }
     }
 }
