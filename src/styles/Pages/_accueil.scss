@@ -76,6 +76,11 @@
             .presentationText {
                 border-radius: 0px;
                 width: 87%;
+                align-items: center;
+                
+                p {
+                    margin-bottom: 5%;
+                }
             }
         }
     }
