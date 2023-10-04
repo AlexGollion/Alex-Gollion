@@ -89,8 +89,11 @@
     .projet {
 
         .image {
-            height: 250px;
     
+            .img {
+                height: 75%;
+            }
+
             .next {
                 right: 5%;
             }
@@ -106,7 +109,7 @@
 
             .tags {
                 margin-left: 0px;
-                margin-bottom: 20px;
+                margin-bottom: 10%;
             }
         }
     }
