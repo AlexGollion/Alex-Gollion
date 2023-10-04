@@ -31,10 +31,10 @@
     {
         "id": 2,
         "titre": "Site Booki",
-        "cover": "images/booki/page_acceuil_booki_cover.webp",
+        "cover": "images/booki/page_accueil_booki_cover.webp",
         "image":
         [
-            "images/booki/page_acceuil_booki.webp",
+            "images/booki/page_accueil_booki.webp",
             "images/booki/hebergement_booki.webp",
             "images/booki/activite_booki.webp"
         ],
