@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#4092f0, #011028);;
+    background: linear-gradient($color-light-blue, $color-dark-blue);;
 
     h1 {
         font-weight: 700;
@@ -22,7 +22,7 @@
     }
 
     .link {
-        color: white;
+        color: $color-white;
         margin-top: 100px;
         margin-bottom: 100px;
     }

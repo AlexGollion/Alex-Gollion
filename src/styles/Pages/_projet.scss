@@ -7,7 +7,7 @@
         position: relative;
         display: flex;
         justify-content: center;
-        background: linear-gradient(#4092f0, #004ABA);
+        background: linear-gradient($color-light-blue, $color-blue);
         padding-bottom: 10px;
         padding-top: 5%;
 
@@ -48,7 +48,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        background: linear-gradient(#004ABA, #011028);
+        background: linear-gradient($color-blue, $color-dark-blue);
         padding-top: 10px;
         padding-bottom: 10px;
 
@@ -61,17 +61,17 @@
             }
 
             p, a {
-                background-color: white;
-                color: black;
+                background-color: $color-white;
+                color: $color-black;
                 border-radius: 20px;
                 padding: 5px;
                 padding-left: 15px;
                 padding-right: 15px;
-                border: 3px solid lightgray;
+                border: 3px solid $color-gray;
             }
 
             h1 {
-                color: white;
+                color: $color-white;
             }
 
             div {

@@ -2,13 +2,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #011028;
-    color: white;
+    background-color: $color-dark-blue;
+    color: $color-white;
     margin-top: 0px;
     height: 200px;
 
     a {
-        background-color: white;
+        background-color: $color-white;
         height: 26px;
         border-radius: 20px;
     }

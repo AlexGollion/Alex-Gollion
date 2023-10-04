@@ -14,7 +14,7 @@
     }
 
     #présentation {
-        background-color: #4092f0;
+        background-color: $color-light-blue;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -24,10 +24,11 @@
             display: flex;
             flex-direction: column;
             align-items: center;
+            justify-content: flex-start;
             border-radius: 100%;
-            border-color: black;
-            background-color: whitesmoke;
-            width: 30%;
+            border-color: $color-black;
+            background-color: $color-blue;
+            width: 38%;
             aspect-ratio: 1/1;
 
             p {
@@ -45,22 +46,23 @@
                 width: 30%;
                 height: auto;
                 border-radius: 50%;
+                margin-top: 4%;
             }
         }
     }
 
     #competences {
-        background: linear-gradient(#4092f0, #004ABA);
+        background: linear-gradient($color-light-blue, $color-blue);
     }
 
     #projets {
-        background-color: #004ABA;
+        background-color: $color-blue;
         color: white;
     }
 
     #contact {
-        background: linear-gradient(#004ABA, #011028);
-        color: white;
+        background: linear-gradient($color-blue, $color-dark-blue);
+        color: $color-white;
     }
 }
 

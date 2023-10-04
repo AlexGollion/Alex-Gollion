@@ -1,12 +1,12 @@
 form {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#E8C39A, lightgray);
+    background-color: $color-light-blue;
     width: 35%;
     padding: 2%;
 
     label {
-        color: black;
+        color: $color-black;
         margin-top: 10px;
         margin-bottom: 2px;
     }
@@ -37,8 +37,8 @@ form {
 
     button {
         margin-top: 20px;
-        background-color: #011028;
-        color: white;
+        background-color: $color-dark-blue;
+        color: $color-white;
         border-radius: 20px;
         width: auto;
         padding: 10px;
