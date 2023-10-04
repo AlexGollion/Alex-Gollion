@@ -2,10 +2,10 @@
     {
         "id": 1,
         "titre": "Site Kasa",
-        "cover": "images/kasa/page_acceuil_kasa_cover.webp",
+        "cover": "images/kasa/page_accueil_kasa_cover.webp",
         "image": 
         [
-            "images/kasa/page_acceuil_kasa.webp",
+            "images/kasa/page_accueil_kasa.webp",
             "images/kasa/card_kasa.webp",
             "images/kasa/footer_kasa.webp",
             "images/kasa/logement_kasa.webp",
